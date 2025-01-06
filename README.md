@@ -1,2 +1,3 @@
 # ModXcel
-This is an executor usde for roblox use on your risk this is not my responsibility
+Use at your own risk 
+This is ModXcel an executor for roblox
