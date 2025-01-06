@@ -1,3 +1,3 @@
 # ModXcel
-Use at your own risk 
-This is ModXcel an executor for roblox
+Use this at your own risk this is not my responsbilty 
+This is an executor for roblox it can take most of the scripts you finde
